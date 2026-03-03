@@ -9,8 +9,6 @@ I'm an Information Technology student with a strong passion for Threat Intellige
 ### Some infos about me:
 
 * 🎓 Currently a second-year IT student at [**CMC University**](https://cmcu.edu.vn/).
-* 🌐 Check out my personal portfolio: [**qsoc.cloud**](https://qsoc.cloud)
-* 🛠️ **My Tech Stack:** Python Scripting, Kali / Debian, Wireshark / TCP/IP, Threat Intel.
 * 💻 **My Gear:** Daily driving a Dell Pro 14 (Core Ultra 7, 32GB RAM) alongside my iPhone SE and Xiaomi Band 10.
 * 📍 I live in Hanoi, Vietnam.
 * 🎵 Currently jamming to: SOOBIN, Kendrick Lamar & Billie Eilish.
